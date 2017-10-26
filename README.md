@@ -1,1 +1,5 @@
-## This website is under construction! I'll have it up soon!
+
+	<center>
+	<h2>YHS SAGA</h2>
+	<p>this site is coming soon !</p>
+	</center>
